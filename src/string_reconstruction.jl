@@ -1,8 +1,5 @@
 using DrWatson
 @quickactivate "Bioinformatics_Algorithms"
-using LinearAlgebra, Statistics
-using Combinatorics
-using Plots
 
 data = "data/kmer_comp.txt"
 k, str = readlines(data)
