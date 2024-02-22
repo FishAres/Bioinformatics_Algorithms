@@ -1,5 +1,7 @@
 # Bioinformatics_Algorithms
 
+## Following Pavel Pevzner's Coursera Course, "Bioinformatics Algorithms"
+
 This code base is using the [Julia Language](https://julialang.org/) and
 [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
